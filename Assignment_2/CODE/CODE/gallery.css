@@ -1,0 +1,313 @@
+.group-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-limegreen);
+  width: 1440px;
+  height: 91px;
+}
+.sign-up-to7 {
+  position: absolute;
+  width: 77.35%;
+  top: 13.04%;
+  left: 22.65%;
+  line-height: 35.2px;
+  display: inline-block;
+}
+.ellipse6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-black);
+}
+.text6 {
+  position: absolute;
+  top: 26.09%;
+  left: 17.39%;
+  letter-spacing: -2px;
+}
+.ellipse-parent4 {
+  position: absolute;
+  height: 100%;
+  width: 19.66%;
+  top: 0;
+  right: 80.34%;
+  bottom: 0;
+  left: 0;
+  text-align: right;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-questrial);
+}
+.logo6 {
+  position: absolute;
+  height: 50.55%;
+  width: 16.25%;
+  top: 25.27%;
+  right: 80.63%;
+  bottom: 24.18%;
+  left: 3.13%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-zen-kaku-gothic-antique);
+}
+.home4,
+.products6 {
+  position: absolute;
+  top: 37px;
+  left: 339px;
+}
+.products6 {
+  left: 412px;
+}
+.about6,
+.cart6,
+.contact9,
+.gallery5 {
+  position: absolute;
+  top: 37px;
+  left: 505px;
+}
+.about6,
+.cart6,
+.contact9 {
+  left: 586px;
+}
+.about6,
+.contact9 {
+  left: 648px;
+}
+.contact9 {
+  top: 38px;
+  left: 721px;
+}
+.button4 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button-fill-rounded-sm4,
+.button-outline-sm4 {
+  position: absolute;
+  top: 24px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  text-align: center;
+  font-size: var(--label-label-1-semibold-size);
+  font-family: var(--label-label-1-semibold);
+}
+.button-fill-rounded-sm4 {
+  left: 1181px;
+  background-color: var(--color-black);
+  color: var(--color-limegreen);
+}
+.button-outline-sm4 {
+  left: 1304px;
+  background-color: var(--color-limegreen);
+  border: 2px solid var(--color-black);
+}
+.gallery6,
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 91px;
+}
+.gallery6 {
+  top: 117px;
+  left: 91px;
+  font-size: var(--font-size-19xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 228px;
+  height: 72px;
+}
+.image-19-icon1,
+.image-20-icon1,
+.image-21-icon1,
+.image-22-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+}
+.image-20-icon1,
+.image-21-icon1,
+.image-22-icon1 {
+  left: 303px;
+}
+.image-21-icon1,
+.image-22-icon1 {
+  left: 606px;
+}
+.image-22-icon1 {
+  left: 924px;
+}
+.group-child27 {
+  position: absolute;
+  top: 374px;
+  left: 1px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 239px;
+  height: 306px;
+  mix-blend-mode: multiply;
+}
+.group-child28,
+.group-child29,
+.group-child30 {
+  position: absolute;
+  top: 0;
+  height: 306px;
+  mix-blend-mode: multiply;
+}
+.group-child28 {
+  left: 2px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 239px;
+}
+.group-child29,
+.group-child30 {
+  left: 303px;
+  width: 240px;
+}
+.group-child30 {
+  top: 372px;
+  left: 606px;
+  height: 308px;
+}
+.group-child31,
+.group-child32,
+.group-child33,
+.group-child34 {
+  position: absolute;
+  top: 374px;
+  left: 924px;
+  width: 240px;
+  height: 306px;
+  mix-blend-mode: multiply;
+}
+.group-child32,
+.group-child33,
+.group-child34 {
+  top: 0;
+}
+.group-child33,
+.group-child34 {
+  left: 606px;
+}
+.group-child34 {
+  top: 374px;
+  left: 304px;
+}
+.image-23-icon1,
+.image-24-icon1,
+.image-25-icon1,
+.image-26-icon1 {
+  position: absolute;
+  top: 374px;
+  left: 2px;
+  width: 238px;
+  height: 240px;
+  object-fit: cover;
+}
+.image-24-icon1,
+.image-25-icon1,
+.image-26-icon1 {
+  left: 304px;
+  width: 240px;
+}
+.image-25-icon1,
+.image-26-icon1 {
+  left: 606px;
+}
+.image-26-icon1 {
+  left: 924px;
+}
+.the-old-fashioned1 {
+  position: absolute;
+  top: 253px;
+  left: 14px;
+  font-size: var(--font-size-2xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 237px;
+}
+.coloured-fish-handmade1,
+.gayatri-mantra-terracotta1 {
+  position: absolute;
+  top: 250px;
+  left: 310px;
+  font-weight: 300;
+  display: inline-block;
+  width: 237px;
+}
+.gayatri-mantra-terracotta1 {
+  top: 253px;
+  left: 616px;
+  font-size: var(--font-size-2xs);
+}
+.appealing-artefacts-hand-carv1,
+.combo-of-terracotta1 {
+  position: absolute;
+  top: 253px;
+  left: 936px;
+  font-weight: 300;
+  display: inline-block;
+  width: 237px;
+}
+.appealing-artefacts-hand-carv1 {
+  top: 627px;
+  left: 14px;
+}
+.kathakali-maquillage-hand1,
+.parrot-collection-wooden1,
+.swinging-hut-handmade1 {
+  position: absolute;
+  top: 627px;
+  left: 310px;
+  font-weight: 300;
+  display: inline-block;
+  width: 237px;
+}
+.parrot-collection-wooden1,
+.swinging-hut-handmade1 {
+  left: 613px;
+}
+.parrot-collection-wooden1 {
+  top: 623px;
+  left: 936px;
+  font-size: var(--font-size-2xs);
+}
+.image-19-parent {
+  position: absolute;
+  top: 189px;
+  left: 120px;
+  width: 1173px;
+  height: 680px;
+  font-size: var(--font-size-3xs);
+}
+.gallery4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

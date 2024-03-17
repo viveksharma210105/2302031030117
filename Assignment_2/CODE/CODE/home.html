@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./home.css" />
+    <link
+    rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Zen Kaku Gothic Antique:wght@300;400;500;700;900&display=swap"
+      />
+      <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Questrial:wght@400&display=swap"
+      />
+      <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      />
+      <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap"
+      />
+      <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;700&display=swap"
+      />
+    </head>
+    <body>
+      <div class="home5">
+        <nav>
+        <div class="rectangle-parent16">
+          <div class="group-child36"></div>
+          <div class="logo7">
+            <div class="sign-up-to8">Artisan Marketplace</div>
+            <div class="ellipse-parent5">
+              <div class="ellipse7"></div>
+              <div class="text7">AM</div>
+            </div>
+          </div>
+          <ul>
+          <li><a class="home6" href="./home.html">Home</a></li>
+          <li><a class="products7" href="./products.html">Products</a></li>
+          <li><a class="gallery7" id="hypergallery" href="./gallery.html">Gallery</a></li>
+          <li><a class="cart7" id="hypercart" href="./cart.html">Cart</a></li>
+          <li><a class="about7" id="hyperabout" href="./about.html">About</a></li>
+          <li><a class="contact11" id="hypercontact" href="./contact.html">Contact</a></li>
+          <li id="welcomeMessage" class="welcome">welcome</li>
+          </ul>
+          <div class="button-fill-rounded-sm5" id="buttonFillRoundedSm">
+            <div class="button5">Register</div>
+          </div>
+          <div class="button-outline-sm5">
+            <div class="button5">Sign in</div>
+          </div>
+
+        </div>
+      </nav>
+        <div class="home-child"></div>
+        <b class="supporting-local-crafted">Supporting Local, Crafted by Hand</b>
+        <b class="experience-the-allure"
+        >Experience the allure of authentic craftsmanship on our website, where
+        you can browse and purchase exquisite handmade products curated by local
+        artisans.</b
+        >
+        <img class="image-27-icon" alt="" src="./public/image-27@2x.png" />
+        <button class="rectangle-parent15" id="btnep">
+        <div class="group-child35"></div>
+        <div class="explore-products">Explore Products</div>
+      </button>
+      
+      <b class="categories-of-products">Categories of Products</b>
+      <div class="grid-container">
+      <img class="image-14-icon" alt="" src="./public/image-14@2x.png" />
+      <b class="clothes">Clothes</b>
+      <img class="image-15-icon" alt="" src="./public/image-15@2x.png" />
+      <b class="decorations">Decorations</b>
+
+      <img class="image-16-icon" alt="" src="./public/image-16@2x.png" />
+
+      <b class="footwears">Footwears</b>
+      <img class="image-17-icon" alt="" src="./public/image-17@2x.png" />
+
+      <b class="toys">Toys</b>
+    </div>
+    </div>
+
+    <script>
+      
+        // Get first name from localStorage
+        var firstName = localStorage.getItem('firstName');
+    
+        // Display welcome message in navigation bar
+        var welcomeMessage = document.getElementById('welcomeMessage');
+        if (firstName) {
+          welcomeMessage.textContent = 'Welcome ' + firstName;
+        }
+      
+      var groupButton = document.getElementById("btnep");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./products.html";
+        });
+      }
+      
+      var buttonFillRoundedSm = document.getElementById("buttonFillRoundedSm");
+      if (buttonFillRoundedSm) {
+        buttonFillRoundedSm.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+      </script>
+  </body>
+</html>
